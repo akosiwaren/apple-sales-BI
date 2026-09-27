@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.vscode/
+.idea/
+*.log
+.DS_Store
+data/apple_sales_cleaned.csv
+data/apple_sales_cleaned.csv.gz
