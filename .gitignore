@@ -8,4 +8,3 @@ venv/
 *.log
 .DS_Store
 data/apple_sales_cleaned.csv
-data/apple_sales_cleaned.csv.gz
